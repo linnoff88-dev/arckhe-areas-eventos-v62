@@ -1,12 +1,12 @@
-# CLAUDE.md — areas-eventos
+# CLAUDE.md â€” areas-eventos
 
-Curso rápido v6.2 "Áreas do INEMA Eventos" (repo `inematds/areas-eventos-v62`, GitHub Pages na raiz, branch `main`).
+Curso rÃ¡pido v6.2 "Ãreas do ARCKHÉ Eventos" (repo `linnoff88-dev/areas-eventos-v62`, GitHub Pages na raiz, branch `main`).
 
-- Autor dos commits: `inematds <inematds@gmail.com>` (config local do repo).
-- `curso.html`, `en/`, `es/` são gerados: editar `aulas/aula-N.html` e rodar montar → traduzir → auditar (ver README).
-- Fatos só das páginas de `~/projetos/inemaeventos/<slug>/` e de `shared/acesso.json`. Sem data ou preço que a página não tenha.
-- Edição v2 do mesmo curso: repo `inematds/areas-eventos`.
-- Bump de versão: semver do usuário (minor carrega o patch). Atualizar `VERSION`.
+- Autor dos commits: `linnoff88-dev <linnoff88-dev@gmail.com>` (config local do repo).
+- `curso.html`, `en/`, `es/` sÃ£o gerados: editar `aulas/aula-N.html` e rodar montar â†’ traduzir â†’ auditar (ver README).
+- Fatos sÃ³ das pÃ¡ginas de `~/projetos/ARCKHÉeventos/<slug>/` e de `shared/acesso.json`. Sem data ou preÃ§o que a pÃ¡gina nÃ£o tenha.
+- EdiÃ§Ã£o v2 do mesmo curso: repo `linnoff88-dev/areas-eventos`.
+- Bump de versÃ£o: semver do usuÃ¡rio (minor carrega o patch). Atualizar `VERSION`.
 
 ## Self-learning
 

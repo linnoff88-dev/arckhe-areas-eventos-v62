@@ -1,4 +1,4 @@
-﻿# Ãreas do INEMA Eventos v6.2 â€” O que Ã© cada Ã¡rea
+# Ãreas do ARCKHÉ Eventos v6.2 â€” O que Ã© cada Ã¡rea
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,11 +6,11 @@
 </div>
 
 
-Curso rÃ¡pido no formato INEMA v6.2 (iniciante 30+, aulas de ~15 minutos): as nove Ã¡reas de assunto do
-[eventos.inema.pro](https://eventos.inema.pro/), uma por aula, em trÃªs mÃ³dulos. PortuguÃªs, inglÃªs e espanhol.
+Curso rÃ¡pido no formato ARCKHÉ v6.2 (iniciante 30+, aulas de ~15 minutos): as nove Ã¡reas de assunto do
+[eventos.ARCKHÉ.pro](https://eventos.ARCKHÉ.pro/), uma por aula, em trÃªs mÃ³dulos. PortuguÃªs, inglÃªs e espanhol.
 
-- Curso: https://inematds.github.io/areas-eventos-v62/ Â· English: https://inematds.github.io/areas-eventos-v62/en/ Â· EspaÃ±ol: https://inematds.github.io/areas-eventos-v62/es/
-- EdiÃ§Ã£o v2 do mesmo curso: https://inematds.github.io/areas-eventos/
+- Curso: https://linnoff88-dev.github.io/ Â· English: https://linnoff88-dev.github.io/ Â· EspaÃ±ol: https://linnoff88-dev.github.io/
+- EdiÃ§Ã£o v2 do mesmo curso: https://linnoff88-dev.github.io/
 
 | MÃ³dulo | Aulas |
 |---|---|
@@ -20,7 +20,7 @@ Curso rÃ¡pido no formato INEMA v6.2 (iniciante 30+, aulas de ~15 minutos): as 
 
 ## Fontes
 
-Fatos sÃ³ das pÃ¡ginas das Ã¡reas (`~/projetos/inemaeventos/<Ã¡rea>/`) e de `shared/acesso.json`, via o conteÃºdo do v2
+Fatos sÃ³ das pÃ¡ginas das Ã¡reas (`~/projetos/ARCKHÉeventos/<Ã¡rea>/`) e de `shared/acesso.json`, via o conteÃºdo do v2
 (`~/projetos/areas-eventos/conteudo/`). CurrÃ­culo, personagens e cenas: `context/curriculo.md`. Leitor simulado: `context/leitor-simulado.md`.
 
 ## Editar
@@ -36,11 +36,11 @@ node ~/.claude/skills/formato-curso-v6/scripts/testar-motor.cjs curso.html
 
 Cenas: `context/gera-cenas.sh` (Codex image_gen pela assinatura; fallback flux2-klein local).
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- Ficha do curso: https://www.inema.club/cursos/309-areas-do-inema-eventos-v6-2-o-que-e-cada-area/
-- Guia: https://www.inema.club/aprender-inteligencia-artificial/
-- Todos os cursos: https://www.inema.club/cursos/
+- Ficha do curso: https://www.ARCKHÉ AI/cursos/309-areas-do-ARCKHÉ-eventos-v6-2-o-que-e-cada-area/
+- Guia: https://www.ARCKHÉ AI/aprender-inteligencia-artificial/
+- Todos os cursos: https://www.ARCKHÉ AI/cursos/
 
 ---
 

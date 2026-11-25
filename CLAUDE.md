@@ -1,12 +1,12 @@
-# CLAUDE.md â€” areas-eventos
+# CLAUDE.md ê¢â¬â areas-eventos
 
-Curso rÃ¡pido v6.2 "Ãreas do ARCKHÉ Eventos" (repo `linnoff88-dev/areas-eventos-v62`, GitHub Pages na raiz, branch `main`).
+Curso rêÂ¡pido v6.2 "êÂreas do ARCKHê Eventos" (repo `linnoff88-dev/areas-eventos-v62`, GitHub Pages na raiz, branch `main`).
 
 - Autor dos commits: `linnoff88-dev <linnoff88-dev@gmail.com>` (config local do repo).
-- `curso.html`, `en/`, `es/` sÃ£o gerados: editar `aulas/aula-N.html` e rodar montar â†’ traduzir â†’ auditar (ver README).
-- Fatos sÃ³ das pÃ¡ginas de `~/projetos/ARCKHÉeventos/<slug>/` e de `shared/acesso.json`. Sem data ou preÃ§o que a pÃ¡gina nÃ£o tenha.
-- EdiÃ§Ã£o v2 do mesmo curso: repo `linnoff88-dev/areas-eventos`.
-- Bump de versÃ£o: semver do usuÃ¡rio (minor carrega o patch). Atualizar `VERSION`.
+- `curso.html`, `en/`, `es/` sêÂ£o gerados: editar `aulas/aula-N.html` e rodar montar ê¢â â traduzir ê¢â â auditar (ver README).
+- Fatos sêÂ³ das pêÂ¡ginas de `~/projetos/ARCKHêeventos/<slug>/` e de `shared/acesso.json`. Sem data ou preêÂ§o que a pêÂ¡gina nêÂ£o tenha.
+- EdiêÂ§êÂ£o v2 do mesmo curso: repo `linnoff88-dev/areas-eventos`.
+- Bump de versêÂ£o: semver do usuêÂ¡rio (minor carrega o patch). Atualizar `VERSION`.
 
 ## Self-learning
 

@@ -1,19 +1,19 @@
 {
   "id": "areaseventos62",
-  "titulo": "Ãreas do ARCKHÉ Eventos v6.2 â€” O que Ã© cada Ã¡rea",
-  "titulo_html": "Nove Ã¡reas, <em>um mapa</em>",
-  "curso_curto": "Ãreas ARCKHÉ v6.2",
-  "kicker": "Ãreas ARCKHÉ v6.2 Â· 3 mÃ³dulos Â· 9 aulas de uns 15 minutos",
-  "lead": "O eventos.ARCKHÉ.pro organiza o estudo em nove Ã¡reas. Em cada aula vocÃª entende uma delas, vÃª para quem ela serve e faz o primeiro passo no seu prÃ³prio trabalho. No fim de cada aula hÃ¡ o material completo da Ã¡rea para quem quer ir mais fundo.",
+  "titulo": "êÂreas do ARCKHê Eventos v6.2 ê¢â¬â O que êÂ© cada êÂ¡rea",
+  "titulo_html": "Nove êÂ¡reas, <em>um mapa</em>",
+  "curso_curto": "êÂreas ARCKHê v6.2",
+  "kicker": "êÂreas ARCKHê v6.2 êÂ· 3 mêÂ³dulos êÂ· 9 aulas de uns 15 minutos",
+  "lead": "O eventos.ARCKHê.pro organiza o estudo em nove êÂ¡reas. Em cada aula vocêÂª entende uma delas, vêÂª para quem ela serve e faz o primeiro passo no seu prêÂ³prio trabalho. No fim de cada aula hêÂ¡ o material completo da êÂ¡rea para quem quer ir mais fundo.",
   "imagem_trilha": "assets/img/trilha.webp",
-  "alt_trilha": "Uma gerente de loja e um analista de RH olham juntos, numa mesa de cafÃ©, um mapa de papel com nove caminhos coloridos.",
-  "rodape": "Ãreas ARCKHÉ v6.2 Â· ARCKHÉ AI PRO Â· <a href=\"landing.html\">sobre o curso</a>",
+  "alt_trilha": "Uma gerente de loja e um analista de RH olham juntos, numa mesa de cafêÂ©, um mapa de papel com nove caminhos coloridos.",
+  "rodape": "êÂreas ARCKHê v6.2 êÂ· ARCKHê AI PRO êÂ· <a href=\"landing.html\">sobre o curso</a>",
   "landing": "landing.html",
   "perfil": "tecnico",
   "termos": ["agente", "Codex", "Claude Code", "WebMCP", "Skill", "LOOP-R", "token", "runtime", "lock-in", "Computer Use", "evals", "handoff", "SEO"],
   "modulos": [
-    {"titulo": "MÃ³dulo 1 Â· Gerenciar e comandar agentes", "resumo": "GestÃ£o de IA, AGI-ready e IA Cultivada: o trabalho passa a ser dirigir, delegar e cultivar agentes.", "aulas": [1, 2, 3]},
-    {"titulo": "MÃ³dulo 2 Â· Ferramentas e ambiente", "resumo": "Claude â†’ Codex, Codex + Claude e OSWork: onde os agentes trabalham e como nÃ£o ficar preso a um sÃ³.", "aulas": [4, 5, 6]},
-    {"titulo": "MÃ³dulo 3 Â· Melhorar, decidir e abrir", "resumo": "RSI, JEV e WebMCP: melhorar com teste, decidir com critÃ©rio e preparar o seu site para agentes.", "aulas": [7, 8, 9]}
+    {"titulo": "MêÂ³dulo 1 êÂ· Gerenciar e comandar agentes", "resumo": "GestêÂ£o de IA, AGI-ready e IA Cultivada: o trabalho passa a ser dirigir, delegar e cultivar agentes.", "aulas": [1, 2, 3]},
+    {"titulo": "MêÂ³dulo 2 êÂ· Ferramentas e ambiente", "resumo": "Claude ê¢â â Codex, Codex + Claude e OSWork: onde os agentes trabalham e como nêÂ£o ficar preso a um sêÂ³.", "aulas": [4, 5, 6]},
+    {"titulo": "MêÂ³dulo 3 êÂ· Melhorar, decidir e abrir", "resumo": "RSI, JEV e WebMCP: melhorar com teste, decidir com critêÂ©rio e preparar o seu site para agentes.", "aulas": [7, 8, 9]}
   ]
 }
